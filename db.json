@@ -1,0 +1,39 @@
+{
+  "records" : [ {
+    "uuid" : "219f8722-bfdd-11e7-8d6e-4d2a6d69cf18",
+    "iata" : "0847089",
+    "cass" : "3104",
+    "address" : {
+      "name1" : "a. hartrodt (Belgium) N.V. Antwerp",
+      "name2" : null,
+      "streetAddress1" : "Antwerp Cargo Center",
+      "streetAddress2" : null,
+      "streetAddress3" : null,
+      "postCode" : "Suikerrui 5 2000",
+      "city" : "Antwerpen",
+      "cityCode" : "ANR",
+      "countryCode" : "BE"
+    },
+    "pima" : "REUAGT87BEHART/BRU01",
+    "tpr" : "HARTBRU",
+    "primary" : true
+  }, {
+    "uuid" : "ac75d94c-7f34-11e6-bf72-53c59df9a853",
+    "iata" : "0847089",
+    "cass" : "1505",
+    "address" : {
+      "name1" : "A. Hartrodt (Belgium) n.v.",
+      "name2" : null,
+      "streetAddress1" : "Building 747 - 1st floor",
+      "streetAddress2" : null,
+      "streetAddress3" : null,
+      "postCode" : "B-1931",
+      "city" : "Brussel",
+      "cityCode" : "BRU",
+      "countryCode" : "BE"
+    },
+    "pima" : "REUAGT87BEHART/BRU01",
+    "tpr" : "HARTBRU",
+    "primary" : false
+  } ]
+}
